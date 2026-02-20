@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(30, 0, 255);
+}
+.div-1 {
+ width: 10000px;
+ height: 100px;
+ background-color: white;
+ top: 400px;
+}
+
+
+                      

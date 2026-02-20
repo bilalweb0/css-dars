@@ -1,0 +1,59 @@
+.pi {
+   font-family: "Padauk", sans-serif;
+}
+.pi-2 {
+   font-family: "Poppins", sans-serif;
+}
+.pi-3 {
+font-family: "Noto Sans Javanese", sans-serif;
+}
+.pi-4 {
+   font-family: "Noto Sans KR", sans-serif;
+}
+.pi-5 {
+   font-family: "Smooch Sans", sans-serif;
+}
+.fa-instagram {
+  color: red;
+}
+.fa-youtube {
+  color: red;
+}
+.fa-telegram {
+  color: blue;
+}
+.fa-discord {
+  color: blue;
+}
+.fa-steam {
+  color:darkblue;
+}
+
+.div-1 {
+width: 400px; ;
+height: 550px; ;
+background-color: black;
+margin-right: 150px;
+}
+.fa-instagram {
+ font-size: 150px;
+}
+.div-2 {
+width: 400px; ;
+height: 550px; ;
+background-color: black;
+margin-right: 150px;
+}
+
+.div-3 {
+  width: 400px; ;
+height: 550px; ;
+background-color: black;
+margin-right: 150px;
+}
+.pi {
+  color: white;
+}
+section {
+  display: flex;
+}

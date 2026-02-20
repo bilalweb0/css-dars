@@ -1,0 +1,21 @@
+/* .heading {
+  color: aqua;
+}
+.lorem1 {color: brown;}
+span {
+  color: salmon;
+}
+.ishlash {
+  color: cyan; text-align: center; font-family: sans-serif;
+}
+.box h2 {color: coral;}
+ */
+.box {
+  background-color: rgb(27, 132, 197);width: 300px; height: 400px; border-radius: 5;
+}
+.div1titan {
+  width: 300px; height: 150px;
+}
+.h1titan {text-align: center;}
+.deltitan {text-align: center;}
+.pasilnarhi {text-align: center;}

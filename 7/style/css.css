@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+}
+.div-1 { 
+  position: absolute;
+  left: 150px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: white;
+}
+.div-2 {
+  width: 230px;
+  height: 500px;
+  background-color: white;
+  left: 150ox;
+}
+.div-3 {
+  width: 230px;
+  height: 500px;
+  background-color: white;
+}
+.div-1 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: white;} 

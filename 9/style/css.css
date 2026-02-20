@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  
+} 
+
+.main {
+  width: 100vh;
+  height: 100vh;
+  background: linear-gradient(rgb(0, 58, 249), rgb(255, 0, 0), rgb(255, 255, 255), red,  green );
+
+}
