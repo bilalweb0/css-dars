@@ -1,0 +1,119 @@
+/* Umumiy sozlamalar */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #05051a; 
+    color: white;
+    overflow-x: hidden;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 5%;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #ccc;
+    font-size: 14px;
+}
+
+.contact-btn {
+    background: linear-gradient(90deg, #3a7bd5, #00d2ff);
+    border: none;
+    padding: 10px 25px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 10%;
+    min-height: 80vh;
+}
+
+.content {
+    max-width: 500px;
+}
+
+.content h1 {
+    font-size: 48px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.content h1 span {
+    color: #cc66ff; 
+}
+
+.content p {
+    color: #aaa;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+
+
+.buttons {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.join-btn {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    border: none;
+    padding: 15px 40px;
+    color: white;
+   
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.watch-video {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.play-icon {
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+}
+

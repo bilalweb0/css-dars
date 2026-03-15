@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  bottom: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 20px;
+
+}
+
+
+/* .container {
+  display: grid;
+  grid-template-columns: ;
+  gap: 10px;
+  background-color: dodgerblue;
+  padding: 10px;
+
+}
+.itme {
+   background-color: greenyellow;
+   color: white;
+   padding: 20px;
+   text-align: center;
+   font-size: 18px;
+   
+} */
+
+
+.itme {
+  display: flex;
+}
+
+.img-1 {
+  width: 350px;
+}
+
+.img-2 {
+  width: 350px;
+}
+
+.img-3 {
+  width: 350px;
+}
+
+.img-4 {
+  width: 350px;
+}
+
+.img-5 {
+  width: 350px;
+}
+
+.img-6 {
+  width: 350px;
+}
